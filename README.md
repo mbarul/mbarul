@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+
+### Welcome to my profile.
+
+🌱 I’m currently learning Python.
+
+### ⚡ Fun fact:
+* NASA still operates some projects on programming from the 1970’s.
+
+
+### 👇 Check my projects.
+
 
 <!--
 **mbarul/mbarul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
