@@ -7,7 +7,8 @@
 ### ⚡ Fun fact:
 * NASA still operates some projects on programming from the 1970’s.
 
-
+### 💻 My roadmap: 
+* [click me!](https://github.com/mbarul/roadmap)
 ### 👇 Check my projects.
 
 
